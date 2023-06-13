@@ -1,4 +1,4 @@
-# Desafio 3 Likeme Backend introducción a Node
+# Desafio 6 Soft Jobs Backend introducción a Node
 
 Recuerda instalar las dependencias => **npm i**
 
